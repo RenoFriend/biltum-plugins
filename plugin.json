@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "biltum",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Read saved Biltum job scans, review measurements, save scope notes and prepare JobTread budgets from chat.",
   "author": {
     "name": "Biltum",
@@ -32,13 +32,13 @@
         "termsOfServiceURL": "https://biltum.com/terms-of-service",
         "brandColor": "#5E9FBF",
         "logo": "./assets/logo.png",
+        "composerIcon": "./assets/logo.png",
         "defaultPrompt": [
           "Find my Biltum job and summarize its saved scans.",
           "Write a budget for my JobTread job using its Biltum scans.",
           "Save a scope correction as a note on my Biltum job."
         ],
-        "supportURL": "https://mcp.biltum.com/help",
-        "composerIcon": "./assets/logo.png"
+        "supportURL": "https://mcp.biltum.com/help"
       },
       "review": {
         "commerce": false,

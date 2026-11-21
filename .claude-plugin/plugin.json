@@ -1,7 +1,7 @@
 {
   "name": "biltum",
   "displayName": "Biltum",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Use saved Biltum jobs, narration and measurements in chat; save requested scope notes and prepare budgets with your JobTread connection.",
   "author": {
     "name": "Biltum",
